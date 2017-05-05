@@ -1,0 +1,7 @@
+C:\Personal\MyApps\PythonApps\FilePathsDump\.idea
+C:\Personal\MyApps\PythonApps\FilePathsDump\.idea\FilePathsDump.iml
+C:\Personal\MyApps\PythonApps\FilePathsDump\.idea\misc.xml
+C:\Personal\MyApps\PythonApps\FilePathsDump\.idea\modules.xml
+C:\Personal\MyApps\PythonApps\FilePathsDump\.idea\workspace.xml
+C:\Personal\MyApps\PythonApps\FilePathsDump\FilePathsDump.py
+C:\Personal\MyApps\PythonApps\FilePathsDump\FilesList.txt
